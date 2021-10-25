@@ -23,7 +23,7 @@ sleep (0.1)
 puts "#{$r}( #{$y}3 #{$r}) #{$p}Subscribe "
 sleep (0.1)
 puts"#{$r}( #{$y}4 #{$r}) #{$g}INSTALLATION & OBB TOOL GP"
-sleep (1)
+sleep (0.1)
 puts "#{$r}[#{$y} 0 #{$r}] #{$g}UPDATE TOOL "
 print "#{$r}[ #{$y}? #{$r}] #{$p}Enter any one : #{$w}" ; $ans = gets.chomp
 		case $ans
