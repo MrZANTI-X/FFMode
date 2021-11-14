@@ -29,11 +29,11 @@ print "#{$r}[ #{$y}? #{$r}] #{$p}Enter any one : #{$w}" ; $ans = gets.chomp
 		case $ans
 	when '1' 
 	puts "Free Fier Mod Manu" 
-        puts "#{$r}Mod Manu version {  #{$y}V27   #{$r}}#{$w}"
+        puts "#{$r}Mod Manu version {  #{$y}V28   #{$r}}#{$w}"
 	sleep (0.1) 
 	puts "#{$m}TAP TO OPEN LINK #{$w} "
 	a = gets
-	system"xdg-open --view https://apkadmin.com/yp8nvmce69bq/Free_Fire_V1.66.X_PR_V27_.apk.html" 
+	system"xdg-open --view https://apkadmin.com/eqdvfyxotez7/Free_Fire_V1.67.X_PR_V28_.apk.html"
 	when '2'
 	system"xdg-open --view https://t.me/akt_gaming_mod"
 	when '3'
